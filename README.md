@@ -1,6 +1,16 @@
-# gitlab
+# FaceApi-ssr
 
 ## Build Setup
+
+```bash
+1. 使用Face-api 实现人脸识别
+
+2. 使用Koa + Nuxt 进行服务端化开发
+
+3. elem 实现表单规则化实时反馈
+
+```
+
 
 ```bash
 # install dependencies
